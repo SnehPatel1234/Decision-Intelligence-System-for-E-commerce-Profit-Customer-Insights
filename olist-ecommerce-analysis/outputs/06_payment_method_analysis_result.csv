@@ -1,0 +1,17 @@
+value_tier,payment_type,order_count,total_revenue,avg_order_value,avg_installments
+1. Low (<R$50),credit_card,12995,451227.92,34.72,1.7
+1. Low (<R$50),boleto,3930,144000.32,36.64,1.0
+1. Low (<R$50),voucher,3174,67157.9,21.16,1.0
+1. Low (<R$50),debit_card,356,12875.5,36.17,1.0
+2. Medium (R$50-150),credit_card,36667,3430197.47,93.55,3.1
+2. Medium (R$50-150),boleto,9943,907361.76,91.26,1.0
+2. Medium (R$50-150),voucher,1869,153390.26,82.07,1.0
+2. Medium (R$50-150),debit_card,741,67815.43,91.52,1.0
+3. High (R$150-500),credit_card,21603,5186877.31,240.1,4.7
+3. High (R$150-500),boleto,4673,1103925.74,236.23,1.0
+3. High (R$150-500),voucher,414,93750.13,226.45,1.0
+3. High (R$150-500),debit_card,348,81656.65,234.65,1.0
+4. Premium (>R$500),credit_card,3321,3032792.18,913.22,7.2
+4. Premium (>R$500),boleto,645,614644.76,952.94,1.0
+4. Premium (>R$500),debit_card,41,46073.54,1123.74,1.0
+4. Premium (>R$500),voucher,36,28714.9,797.64,1.0
